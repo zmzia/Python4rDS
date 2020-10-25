@@ -1,2 +1,2 @@
-# Python4rDS
+# Iz4rDS
 Python for Data Science
